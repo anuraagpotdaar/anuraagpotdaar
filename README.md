@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-⚠️ Lost access to @anuraagpotdaar1
+⚠️ Lost access to [@anuraagpotdaar1](https://github.com/anuraagpotdaar1)
 
 <!--
 **anuraagpotdaar/anuraagpotdaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
