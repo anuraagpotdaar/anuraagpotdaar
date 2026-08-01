@@ -1,7 +1,5 @@
 ## Hi there 👋
-
-⚠️ Lost access to [@anuraagpotdaar1](https://github.com/anuraagpotdaar1)
-
+🔭 I’m currently working on text to motion ml models
 <!--
 **anuraagpotdaar/anuraagpotdaar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
